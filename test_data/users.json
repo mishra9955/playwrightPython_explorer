@@ -1,0 +1,9 @@
+{
+  "_comment": "Maps roles to .env variable names. Passwords live only in .env.",
+  "roles": {
+    "default": {
+      "username_env": "APP_USER",
+      "password_env": "APP_PASSWORD"
+    }
+  }
+}
